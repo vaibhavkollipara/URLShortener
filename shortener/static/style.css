@@ -1,0 +1,16 @@
+body{
+    background: white url("http://www.designbolts.com/wp-content/uploads/2012/11/Free-Simple-Black-Seamless-Pattern-for-Website-Background.jpg");
+}
+.urlform{
+    padding-top: 20vh;
+}
+
+.card{
+    background-color: white;
+    border-radius: 1vh;
+}
+
+.logotext{
+    color:white;
+    font-family: 'Armata', sans-serif;text-shadow:0 0 10px white;
+}
