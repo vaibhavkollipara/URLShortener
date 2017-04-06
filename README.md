@@ -22,7 +22,7 @@ After cloning the repo in terminal
 >python manage.py createsuperuser
 
 *Start server
->python manage.py reuserver
+>python manage.py runserver
 
 <hr/>
 <h3>Screenshots</h3>
